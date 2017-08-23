@@ -43,4 +43,4 @@ Below, I walk you through the set up. If you still need help: [@thomasmeagher](h
 ## License
 Tindergram is released under the MIT license. See LICENSE for details.
 
-*Credit to Bitfountain for their [awesome iOS 8 Course](http://bitfountain.io/courses/complete-ios8) and app assets*
+[AppWorkLabs](http://www.appworklabs.com)
